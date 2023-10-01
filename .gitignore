@@ -35,4 +35,4 @@ config.js
 # RSA_Key
 *.pem
 
-*.env
+test.env
